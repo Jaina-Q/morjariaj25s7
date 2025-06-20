@@ -9,10 +9,10 @@ div {
   height: 200px;
   margin: auto;
   text-align: center;
-  line-height: 8;
   font-size: 1.125rem; /* 18 px is 1.125 rem https://remtopx.com/*/
   color: white;
   text-shadow: 1px 1px 1px black;
+  line-height: 8;
   border-radius: 10px;
   border: 1px solid green;
   background: linear-gradient(to bottom right, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0.2) 100%), green;
